@@ -1,0 +1,96 @@
+.about-section {
+  padding: 40px;
+  font-size: 1.1em;
+}
+
+.about-heading {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 40px;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.about-photo {
+  flex: 1;
+  margin-right: 30px;
+}
+
+.profile-image {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  border: 5px solid #ccc;
+}
+
+.about-text {
+  flex: 2;
+  text-align: left;
+}
+
+.scrolling-companies {
+  width: 100%; 
+  overflow: hidden; 
+  white-space: nowrap; 
+  margin-top: 40px;
+  height: 60px; 
+  line-height: 40px; 
+  position: relative; 
+}
+
+.scroll-text {
+  display: inline-block;
+  animation: scroll 10s linear infinite; 
+  position: absolute; 
+  left: 0;  
+  width: 100%; 
+}
+
+/* Animation for scrolling effect */
+@keyframes scroll {
+  0% {
+    transform: translateX(100%); 
+  }
+  100% {
+    transform: translateX(-100%); 
+  }
+}
+/* Mobile Version (max-width: 768px) */
+@media only screen and (max-width: 768px) {
+  .about-section {
+    padding: 20px;
+  }
+
+  .about-heading {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+  }
+
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-photo {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .profile-image {
+    width: 150px;
+  }
+
+  .about-text {
+    font-size: 1em;
+  }
+
+  .scrolling-companies {
+    height: 40px;
+    line-height: 30px;
+  }
+}
