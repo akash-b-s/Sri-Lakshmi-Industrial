@@ -37,7 +37,7 @@
   width: 100%; 
   overflow: hidden; 
   white-space: nowrap; 
-  margin-top: 40px;
+  margin-top: 80px;
   height: 60px; 
   line-height: 40px; 
   position: relative; 
@@ -93,4 +93,25 @@
     height: 40px;
     line-height: 30px;
   }
+}
+.about-photo {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1%;
+  margin-left: -10px;
+}
+
+
+.profile-image {
+  position: relative;
+  width: 90%;
+  height: 170%;
+  border-radius: 50%;
+  border: 1px solid white;
+  object-fit: cover;
+  z-index: 1;
 }
