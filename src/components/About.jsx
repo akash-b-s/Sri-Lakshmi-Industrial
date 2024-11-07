@@ -1,5 +1,5 @@
 import React from 'react';
-import ownerPhoto from '../assets/profile.png'; 
+import ownerPhoto from '../assets/profile1.png'; 
 import './about.css'
 const About = () => {
   return (
@@ -7,6 +7,7 @@ const About = () => {
       <h2 className="about-heading">About Us</h2>
       <div className="about-content">
         <div className="about-photo">
+        
           <img src={ownerPhoto} alt="Owner" className="profile-image" />
         </div>
         <div className="about-text">
