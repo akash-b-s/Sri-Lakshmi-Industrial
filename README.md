@@ -40,15 +40,6 @@ You can dive deeper into the project's features with the [Create React App docum
 
 Additionally, check out the official [React documentation](https://reactjs.org/) to learn more about React.
 
-### 📦 Advanced Topics
-
-- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-- [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-- [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-- [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-- [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
-- [npm run build Fails to Minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
 ---
 
 ## 🛠️ Technologies Used
@@ -69,8 +60,8 @@ Feel free to explore the code, contribute, or use it as inspiration for your nex
 
 ## 💬 Connect with Me
 
-- **Email**: akash190504@gmail.com
-- **LinkedIn**: [Akash]([https://www.linkedin.com](https://www.linkedin.com/in/akash-b-s-30b4b6264/))
-- **GitHub**: [Akash's GitHub](https://github.com/akash190504)
+- **Email**: srilakshmiindustries74@gmail.com
+- **LinkedIn**: [Akash B S](https://www.linkedin.com/in/akash-b-s-30b4b6264/)
+- **GitHub**: [Akash B S GitHub](https://github.com/akash-b-s)
 
 ---
