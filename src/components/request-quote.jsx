@@ -37,7 +37,7 @@ const QuoteForm = () => {
       console.log('Document written with ID: ', docRef.id);
       setStatus('Quote request submitted successfully!');
 
-      const serviceID = 'service_shu8ryj';
+      const serviceID = 'service_45vhybs';
       const templateID = 'template_uun0knf';
       const publicKey = 'MmA5IUmig73gB7_k3';
 
