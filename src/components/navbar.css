@@ -37,13 +37,13 @@
 
 .logo-container {
 position: absolute;
-top: -25px; 
+top: 15px; 
 left: 0;
 z-index: 2; 
 }
 
 .logo {
-width: 180px; 
+width: 250px; 
 height: auto;
 }
 
