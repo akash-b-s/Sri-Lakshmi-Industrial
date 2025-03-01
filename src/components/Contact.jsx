@@ -86,7 +86,7 @@ const Contact = () => {
           </div>
           <div className="contact-item">
             <FontAwesomeIcon icon={faEnvelope} />
-            <strong> Email:</strong> <a href="mailto:info@example.com">srilakshmiindustries74@gmail.com</a>
+            <strong> Email:</strong> <a href="mailto:info@example.com">deenaindustrial@gmail.com</a>
           </div>
           <div className="contact-item">
             <FontAwesomeIcon icon={faWhatsapp} />
