@@ -1,6 +1,6 @@
-# Lakshmi Industrial Website - React App
+# Deena Industrial Website - React App
 
-Welcome to the **Lakshmi Industrial** project! This is a web application designed to showcase the industrial services of Lakshmi Industries. It has been built using **React** and deployed on **Netlify**. Check out the live project at: [Lakshmi Industrial Website](https://lakshmi-industrial.netlify.app/).
+Welcome to the **Deena Industrial** project! This is a web application designed to showcase the industrial services of Deena Industries. It has been built using **React** and deployed on **Netlify**. Check out the live project at: [Deena Industrial Website](https://deena-industrial.netlify.app/).
 
 ---
 
@@ -52,7 +52,7 @@ Additionally, check out the official [React documentation](https://reactjs.org/)
 
 ## 👨‍💻 Developer's Note
 
-This project aims to create an engaging and informative experience for users seeking to explore the services offered by Lakshmi Industries. It utilizes modern React features to ensure a smooth and responsive experience across devices.
+This project aims to create an engaging and informative experience for users seeking to explore the services offered by Deena Industries. It utilizes modern React features to ensure a smooth and responsive experience across devices.
 
 Feel free to explore the code, contribute, or use it as inspiration for your next React project!
 
@@ -60,7 +60,7 @@ Feel free to explore the code, contribute, or use it as inspiration for your nex
 
 ## 💬 Connect with Me
 
-- **Email**: srilakshmiindustries74@gmail.com
+- **Email**: deenaindustrial@gmail.com
 - **LinkedIn**: [Akash B S](https://www.linkedin.com/in/akash-b-s-30b4b6264/)
 - **GitHub**: [Akash B S GitHub](https://github.com/akash-b-s)
 
